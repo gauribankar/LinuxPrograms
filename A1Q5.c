@@ -1,4 +1,4 @@
-// 4) Accept file name and bytes from user and read those bytes
+// 5) Accept file name and bytes from user and read those bytes
 #include<stdio.h>
 #include<fcntl.h>
 #include<stdlib.h>
