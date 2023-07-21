@@ -21,11 +21,6 @@ int main(int argc, char *argv[])
     char Fname[20];
     int fd = 0;
 
-    sobj.Rollno = 11;
-    sobj.Marks = 89;
-    sobj.Age = 25;
-    strcpy(sobj.Name,"Gauri");
-
     if(argc != 2)
     {
         printf("Insufficient Arguments ! \n");
